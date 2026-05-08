@@ -1,0 +1,14 @@
+uuid: 5f9c87fc-100b-4377-ba00-cdc5d2e53115
+langcode: en
+status: true
+dependencies: {  }
+name: Card
+configEntityTypeId: component
+weight: 0
+items:
+  - sdc.haven_theme.card
+  - sdc.haven_theme.card-feature
+  - sdc.haven_theme.card-icon
+  - sdc.haven_theme.card-logo
+  - sdc.haven_theme.card-pricing
+  - sdc.haven_theme.card-testimonial

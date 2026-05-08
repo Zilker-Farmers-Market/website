@@ -1,0 +1,14 @@
+_core:
+  default_config_hash: HlN7eAN2N4JIHsYv56V4E7sqC9bS609KwvGFjyD_mgk
+langcode: en
+uuid: 20b137a1-16f3-4ccc-952f-6f6b0811749f
+name: 'Zilker Farmers Market'
+mail: jd@jdleonard.net
+slogan: ''
+page:
+  404: /404
+  front: /page/6
+admin_compact_mode: false
+weight_select_max: 100
+default_langcode: en
+mail_notification: null

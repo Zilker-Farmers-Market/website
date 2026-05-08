@@ -1,0 +1,16 @@
+uuid: bca0561c-52c5-4fa8-aa8b-17a89b96761c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: VWUWqwszm5ZaqT3frIPWjyyVmvmWnWMFRphkVXCl8t0
+id: image
+label: Image
+description: 'A locally hosted image file.'
+source: image
+queue_thumbnail_downloads: false
+new_revision: true
+source_configuration:
+  source_field: field_media_image
+field_map:
+  name: name

@@ -1,0 +1,17 @@
+uuid: 16e9d379-c528-47d0-bc8e-07dcc5b3036f
+langcode: en
+status: true
+dependencies: {  }
+name: Base
+configEntityTypeId: component
+weight: 0
+items:
+  - sdc.haven_theme.anchor
+  - sdc.haven_theme.badge
+  - sdc.haven_theme.blockquote
+  - sdc.haven_theme.button
+  - sdc.haven_theme.heading
+  - sdc.haven_theme.icon
+  - sdc.haven_theme.image
+  - sdc.haven_theme.text
+  - sdc.haven_theme.video
